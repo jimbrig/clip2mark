@@ -19,7 +19,9 @@ You can paste multiple times, however this will overwrite the previous conversio
 
 ## Roadmap
 
-I am currently attempting to implement an express backend API endpoint in the [feature/api branch](https://github.com/jimbrig/clip2mark/tree/feature/api); still under development - see the [develop -> main pull request](https://github.com/jimbrig/clip2mark/pull/1) for progress.
+I am currently attempting to implement an express backend API endpoint in the [feature/api branch](https://github.com/jimbrig/clip2mark/tree/feature/api); still under development.
+
+See the [develop -> main pull request](https://github.com/jimbrig/clip2mark/pull/1) for progress.
 
 ## Tested browsers
 
