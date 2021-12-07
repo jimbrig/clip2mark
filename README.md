@@ -4,7 +4,7 @@
 
 ## Demo
 
-<https://jimbrig.github.io/clip2mark/>
+<https://jimbrig/clip2mark>
 
 ## Purpose
 
